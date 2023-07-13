@@ -1,0 +1,134 @@
+/* *{
+    margin: 0px;
+    padding: 0px;
+    outline: 0px;
+} */
+.designheading{
+    display: flex;
+    justify-content: space-around;
+    margin-left: 80px;
+    margin-top: 2%;
+    width: 80%;
+    height: 100vh;
+    position: relative;
+    
+}
+.staricon img{
+    width: 200px;
+    height: 50px;
+}
+.designone h1{
+    margin-top: -10px;
+      font-size: 70px;
+      height: 40px;
+}
+.designpragraph{
+    padding-top: 20px;
+    width: 50%;
+    font-size: 21px;
+    text-align: justify;
+
+}
+.designone button{
+    margin-top: 40px;
+    width: 13%;
+    height: 9vh;
+    background-color: blue;
+    border-radius: 20%;
+    color: aliceblue;
+    border-bottom: none;
+    border-left: none;
+    border-top: none;
+    border-right: none;
+}
+.designtwo{
+    position: relative;
+
+}
+.sideimg1 img{
+         width: 200px;
+         height: 100px;
+}
+.sideimg1{
+    margin-left: -70%;
+    padding-top: 10px;
+}
+.sideimg2{
+    margin-left: -70%;
+    margin-top: -100px;
+  
+}
+
+
+.mainimg{
+    margin-top: -40%;
+}
+.mainimg img{
+    width: 150%;
+    height: 70vh;
+}
+.background{
+    background-color: rgb(255, 249, 240);
+    width: 100%;
+    height: 100vh;
+    border-radius: 10%;
+    margin: auto;
+}
+.background h6{
+    text-align: center;
+    padding-top: 30px;
+    color: rgb(41, 41, 245);
+}
+.background h1{
+    text-align: center;
+    color: blue;
+}
+.insideback{
+    background-color: azure;
+    width: 80%;
+    height: 70vh;
+    margin: auto;
+    display: flex;
+   border-radius: 10%;
+   
+}
+.phara{
+    width: 40%;
+    margin-top: 5%;
+    margin-left: 50px;
+    flex-direction: column;
+    gap: 15px;
+    display: flex;
+    
+    
+}
+.phara .p1{
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.phara .p2{
+    font-size: 45px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.phara .p3{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.phara .p4{
+    text-align: center;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.phara .p5{
+    text-align: center;
+    font-weight: bold;
+}
+.Or{
+    margin-top: 15%;
+    width: 5%;
+    margin: auto;
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
